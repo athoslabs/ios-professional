@@ -1,3 +1,3 @@
 # ios-professional
 
-Welcomet !
+Welcome!
